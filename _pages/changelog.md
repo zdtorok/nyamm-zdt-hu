@@ -6,7 +6,7 @@ include_in_header: true
 
 # Changelog
 
-# **Version 1.0**
+## **Version 1.0**
 ### `May 7, 2021`
 First version of the application.
 
