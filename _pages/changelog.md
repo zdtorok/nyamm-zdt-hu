@@ -4,10 +4,13 @@ title: What's New
 include_in_header: true
 ---
 
+**Last updated**  
+April 23, 2022
+
 # Changelog
 
 ## **Version 1.2**
-### `Apr 23, 2022`
+### `April 23, 2022`
 This is a small update to let you delete your data and a small bugfix.
 
 #### What's New
@@ -19,7 +22,7 @@ This is a small update to let you delete your data and a small bugfix.
 <br>
 
 ## Version 1.1
-### `Nov 21, 2021`
+### `November 21, 2021`
 This update contains mainly bugfixes and small updates to iOS 15.
 
 #### What's New
