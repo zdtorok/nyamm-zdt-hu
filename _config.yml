@@ -36,6 +36,14 @@ features                                  :
   - title                                 : Full synchronization
     description                           : Have your recipes always up-to-date across your devices! It's automatically synchronized.
     fontawesome_icon_name                 : sync
+
+  - title                                 : iPad and iPhone Support
+    description                           : Nyamm is available both on your iPhone and iPad!
+    fontawesome_icon_name                 : mobile
+
+  - title                                 : Food Groups
+    description                           : Organize your recipes into different food groups, so you will find your best recipes easily.
+    fontawesome_icon_name                 : burger
     
   - title                                 : External links for your recipes
     description                           : Store a useful link to a website/video for your recipes, so you can get there with one touch.
@@ -52,10 +60,6 @@ features                                  :
   - title                                 : PDF Export
     description                           : Export your recipes in PDF so you can share or print them later.
     fontawesome_icon_name                 : file-export
-
-  - title                                 : Food Groups
-    description                           : Organize your recipes into different food groups, so you will find your best recipes easily.
-    fontawesome_icon_name                 : burger
 
 # Theme Settings
 topbar_color                              : "#000000"
