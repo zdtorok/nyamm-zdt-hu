@@ -19,8 +19,6 @@ This is a small update to let you delete your data and a small bugfix.
 #### Bug Fixes
 - Fixed the case, when the wrong image was shown for a moment when scrolling the recipes.
 
-<br>
-
 ## Version 1.1
 ### `November 21, 2021`
 This update contains mainly bugfixes and small updates to iOS 15.
@@ -31,8 +29,6 @@ This update contains mainly bugfixes and small updates to iOS 15.
 #### Bug Fixes
 - Fixed a critical bug that in some cases, when you created a new recipe, would overwrite a previous one.
 - Fixed auto-syncing of ingredients and instructions (some cases they were not automatically updated on other devices).
-
-<br>
 
 ## **Version 1.0**
 ### `May 7, 2021`
