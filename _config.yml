@@ -50,7 +50,7 @@ features                                  :
     fontawesome_icon_name                 : link
 
   - title                                 : Use your own photos
-    description                           : Amaze yourself with beautiful photos: add your own photos for your recipes and food groups!
+    description                           : Amaze yourself with beautiful photos:: add your own photos for your recipes and food groups!
     fontawesome_icon_name                 : images
 
   - title                                 : Easy Share
