@@ -1,36 +1,5 @@
 <footer>
-	{% if site.your_name %}
-	<p class="footerText">Made by {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}{% if site.your_city %} in {{ site.your_city }}{% endif %}</p>
-	{% endif %}
 	<div class="footerIcons">
-
-		{% if site.facebook_username %}
-			<a href="https://facebook.com/{{ site.facebook_username }}">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fab fa-facebook fa-stack-1x"></i>
-				</span>
-			</a>
-		{% endif %}
-
-		{% if site.twitter_username %}
-			<a href="https://twitter.com/{{ site.twitter_username }}">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fab fa-twitter fa-stack-1x"></i>
-				</span>
-			</a>
-		{% endif %}
-
-		{% if site.instagram_username %}
-			<a href="https://instagram.com/{{ site.instagram_username }}">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fab fa-instagram fa-stack-1x"></i>
-				</span>
-			</a>
-		{% endif %}
-
 		{% if site.github_username %}
 			<a href="https://github.com/{{ site.github_username }}">
 				<span class="fa-stack fa-1x">
@@ -40,6 +9,20 @@
 			</a>
 		{% endif %}
 
+		<a href="https://apps.apple.com/us/developer/zoltan-daniel-torok/id1516607860">
+			<span class="fa-stack fa-1x">
+				<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+				<i class="socialIconTop fab fa-app-store fa-stack-1x"></i>
+			</span>
+		</a>
+
+		<a href="https://www.linkedin.com/in/zdtorok/">
+			<span class="fa-stack fa-1x">
+				<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+				<i class="socialIconTop fab fa-linkedin fa-stack-1x"></i>
+			</span>
+		</a>
+
 		{% if site.email_address %}
 			<a href="mailto:{{ site.email_address }}">
 				<span class="fa-stack fa-1x">
@@ -48,7 +31,6 @@
 				</span>
 			</a>
 		{% endif %}
-
 	</div>
 	<div class="footerLinks">
 		{% for page in site.pages %}
