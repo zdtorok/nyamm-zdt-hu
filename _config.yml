@@ -43,7 +43,7 @@ features                                  :
 
   - title                                 : Food Groups
     description                           : Organize your recipes into different food groups, so you will find your best recipes easily.
-    fontawesome_icon_name                 : burger-soda
+    fontawesome_icon_name                 : mobile
     
   - title                                 : External links for your recipes
     description                           : Store a useful link to a website/video for your recipes, so you can get there with one touch.
